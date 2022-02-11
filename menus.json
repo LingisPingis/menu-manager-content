@@ -1,1 +1,22 @@
-["Cherax", "Luna", "Indra", "Zeus"]
+[
+    {
+        "name": "Cherax",
+        "icon": null,
+        "description": "A crafty menu with all features you would ever want."
+    },
+    {
+        "name": "Luna",
+        "icon": null,
+        "description": "A crafty menu with all features you would ever want."
+    },
+    {
+        "name": "Indra",
+        "icon": null,
+        "description": "A crafty menu with all features you would ever want."
+    },
+    {
+        "name": "Zeus",
+        "icon": null,
+        "description": "A crafty menu with all features you would ever want."
+    }
+]
