@@ -1,1 +1,2 @@
-"# menu-manager-content" 
+# Menu-Manager-Content
+- Used for our application named Menu Manager.
