@@ -2,7 +2,7 @@
     {
         "name": "2take1",
         "icon": null,
-        "description": "",
+        "description": "A crafty menu with all features you would ever want.",
         "locations": {
             "website": "https://2take1.menu",
             "downloads": {
@@ -34,11 +34,11 @@
         "locations": {
             "website": "https://reboundcheats.org/",
             "downloads": {
-                "gta": "",
+                "gta": "https://api.reboundcheats.org/loader",
                 "rdr2": "",
                 "fivem": ""
             },
-            "guide": ""
+            "guide": "https://reboundcheats.org/threads/rebound-loader-how-to-use-a-thread.35/"
         }
     },
     {
@@ -62,7 +62,7 @@
         "locations": {
             "website": "https://stand.gg/",
             "downloads": {
-                "gta": "",
+                "gta": "https://stand.one/Stand%20Launchpad.exe",
                 "rdr2": "",
                 "fivem": ""
             },
@@ -74,7 +74,7 @@
         "icon": null,
         "description": "A crafty menu with all features you would ever want.",
         "locations": {
-            "website": "",
+            "website": "https://circuit.menu/",
             "downloads": {
                 "gta": "",
                 "rdr2": "",
@@ -118,7 +118,7 @@
         "locations": {
             "website": "https://cherax.vip/",
             "downloads": {
-                "gta": "",
+                "gta": "https://cherax.vip/store/cherax.1/product-licenses/",
                 "rdr2": "",
                 "fivem": ""
             },
@@ -160,7 +160,7 @@
         "locations": {
             "website": "https://timelessmenu.com/",
             "downloads": {
-                "gta": "",
+                "gta": "https://timelessmenu.com/menuassets/launcher.exe",
                 "rdr2": "",
                 "fivem": ""
             },
@@ -220,7 +220,7 @@
                 "rdr2": "",
                 "fivem": ""
             },
-            "guide": ""
+            "guide": "https://pastebin.com/raw/c54JVG21"
         }
     },
     {
