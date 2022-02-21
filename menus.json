@@ -236,5 +236,19 @@
             },
             "guide": ""
         }
+    },
+    {
+        "name": "Radiant",
+        "icon": null,
+        "description": "A crafty menu with all features you would ever want.",
+        "locations": {
+            "website": "",
+            "downloads": {
+                "gta": "https://www.youtube.com/watch?v=jxo_K7JLZxQ",
+                "rdr2": "",
+                "fivem": ""
+            },
+            "guide": ""
+        }
     }
 ]
